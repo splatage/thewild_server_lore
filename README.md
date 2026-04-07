@@ -305,3 +305,251 @@ This document collects two early library collections for **The Wild** in Minecra
 ```mcfunction
 /give @p written_book[minecraft:written_book_content={title:{raw:"Closing Leaf from the Sanctuary Register"},author:"Brother Iven",generation:0,resolved:true,pages:[{text:"The Wild is often spoken of as though it begins where the road ends. This is only half true. The Wild also begins wherever neglect is allowed to unmake what many hands once made passable."},{text:"Likewise civilization is often imagined as walls, wealth, or command. These are lesser signs. The truer signs are records honestly kept, roads repaired in season, stores counted fairly, and people who mean for strangers to arrive after them and live."},{text:"If these leaves teach anything, let it be this: a realm holds where care is made common."}]}]
 ```
+
+## Shelf 3 — The Primordials and the Keeping of the Realm
+**Location:** the second full shelf in the main library.
+**Layout:** 27 slots, arranged as a mixed archive of chronicle, hall, household, road, quartermaster, and librarian records.
+**Genre mix:** chronicle entries, honor rolls, journal fragments, letters, proclamations, inventories, work accounts, household notebooks, hall commentary, and memorial texts.
+**Lore role:** this shelf explains who the Primordials were in the life of the realm: not mythic founders above error, but the first shapers whose habits of stewardship, honest exchange, common decency, and public usefulness still define The Wild.
+### Slot 1. Entry on the First Keepers
+- **Author:** Aster Vale
+- **Genre:** Chronicle entry
+- **Lore purpose:** Introduces the Primordials as the earliest shapers of the returned realm.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Entry on the First Keepers"},author:"Aster Vale",generation:0,resolved:true,pages:[{text:"In later years the first keepers of the rebuilt center came to be called the Primordials. The name was not theirs to begin with. It was given afterward by those who inherited roads, shelves, lamps, and habits they had not themselves laid down."},{text:"They were not kings, prophets, or beings above error. They were merely first in the hard sense: first to stay when staying was uncertain, first to keep order where disorder had the easier claim, and first to make the center useful to more than themselves."},{text:"If they are remembered with unusual weight, it is because the realm still rests upon work so ordinary that most forget to honor it until it fails: a dry roof, a counted store, a marked road, a fair tally, and a place kept fit for strangers."}]}]
+```
+
+### Slot 2. Roll of Those Later Named Primordials
+- **Author:** Aster Vale
+- **Genre:** Honor roll
+- **Lore purpose:** Records the early names held in special esteem after the realm opened wider.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Roll of Those Later Named Primordials"},author:"Aster Vale",generation:0,resolved:true,pages:[{text:"The following names are entered among those later called Primordials, not as saints beyond revision, but as first shapers whose labor gave the realm a center fit to grow from."},{text:"Mara Fen, keeper of the camp shelf and the middle fire. Toma Vale, counter of stores and setter of fair measure. Oren Reed, roadwarden and mender of crossings. Maraine Holt, holder of the eastern rise and sender of grain. Harlan Pike, fisher and provisioner of South Creek."},{text:"Others stood among them whose names are now partial, worn, or lost to damaged leaves. Let this omission be counted against time, not against their worth."}]}]
+```
+
+### Slot 3. Note on the Use of the Name Primordial
+- **Author:** Lysa Perrin
+- **Genre:** Librarian's note
+- **Lore purpose:** Explains the title Primordial as a later cultural term, not a claim of divinity.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Note on the Use of the Name Primordial"},author:"Lysa Perrin",generation:0,resolved:true,pages:[{text:"Some newer hands misunderstand the word Primordial and suppose it implies holiness, infallibility, or some grand mystery of blood and birth. It does not."},{text:"The name persisted because the first keepers seem to stand at the beginning of many things at once: the first reliable center, the first common shop, the first maintained shelf of books, the first works done plainly for common benefit. In that sense they are primordial to our civic life, not to the world itself."},{text:"Use the name with respect, but not with superstition. The first shapers were human enough to tire, quarrel, misjudge, and mend. Their honor lies not in perfection but in what they held together long enough for others to join."}]}]
+```
+
+### Slot 4. From the First Winter Watch
+- **Author:** Mara Fen
+- **Genre:** Journal fragment
+- **Lore purpose:** Shows the first keepers under strain and the necessity of the center.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"From the First Winter Watch"},author:"Mara Fen",generation:0,resolved:true,pages:[{text:"Snow gathered in the broken joints of the Sanctuary wall and found every weakness before dawn. By the third night we had learned which stones held warmth and which only pretended to. A ruin instructs harshly but thoroughly."},{text:"The others argued again for lighter stores and swifter movement. I said nothing for a while, because hunger will always make the far lamp look kinder than the near one. Yet when the weather closed, every road thought itself the center and none proved it. Only this place did."},{text:"That settled the matter for me. Better an imperfect center endured than ten bold intentions scattered in sleet."}]}]
+```
+
+### Slot 5. Mason's Notes at the Sanctuary Wall
+- **Author:** Deren Pike
+- **Genre:** Work notes
+- **Lore purpose:** Ties physical repair of the Old Sanctuary to the founding character of the realm.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Mason's Notes at the Sanctuary Wall"},author:"Deren Pike",generation:0,resolved:true,pages:[{text:"North wall: salvageable with patience. East corner: honest ruin. Old hearth worth keeping. One lintel fit for re-setting if three hands lift together and one keeps his pride from getting under it."},{text:"I have been told more than once that there is finer stone farther out. I do not deny it. Yet finer stone somewhere else is a poor substitute for a wall that holds here tonight."},{text:"The first work of a realm is not building grandly. It is making what already stands reliable enough to trust."}]}]
+```
+
+### Slot 6. Letter on Holding the Middle
+- **Author:** Mara Fen
+- **Genre:** Letter copy
+- **Lore purpose:** Frames staying at the center as equal in honor to pushing outward.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Letter on Holding the Middle"},author:"Mara Fen",generation:0,resolved:true,pages:[{text:"To Maraine on the rise,\n\nYou write as if I have chosen the safer labor and you the more necessary. I will not insult either of us by agreeing."},{text:"You hold ground that feeds us. I hold the place where roads meet, stores gather, and bad news arrives in time to matter. If one work seems quieter, that is only because the middle is meant to steady noise, not compete with it."},{text:"Let no one say later that the frontier was won solely by those who went out, nor solely by those who stayed. The realm requires both and punishes pride in either. Mara."}]}]
+```
+
+### Slot 7. Proclamation on Common Conduct
+- **Author:** Toma Vale
+- **Genre:** Public proclamation
+- **Lore purpose:** Embeds the real-world clean and safe principles into in-world civic culture.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Proclamation on Common Conduct"},author:"Toma Vale",generation:0,resolved:true,pages:[{text:"Let the center be kept in decent order. Let stores be tallied honestly. Let roads and doors be left fit for common use. Let no man darken the middle by cruelty, needless filth, or mischief done merely because a thing is shared."},{text:"The Wild beyond the markers may hold danger enough without our importing more of it into the places made for rest, trade, and record. Hard country is excuse for many things, but not for the deliberate spoiling of refuge."},{text:"Whoever uses the common places shall leave them serviceable for the next hand. This is not softness. It is how a realm distinguishes itself from a camp of thieves."}]}]
+```
+
+### Slot 8. On Lamps Roads and Shelter
+- **Author:** Oren Reed
+- **Genre:** Roadwarden's paper
+- **Lore purpose:** Defines civilization as a network of maintained supports against needless darkness.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"On Lamps Roads and Shelter"},author:"Oren Reed",generation:0,resolved:true,pages:[{text:"If someone asks me what marks the settled line from the Wild, I do not answer walls. I answer lamps, roads, and shelter."},{text:"A lamp says another person thought of your return before you departed. A road says someone spent sweat making distance less murderous than it wished to be. A shelter says the realm means for weariness to be survived, not merely endured."},{text:"Any fool can plant a banner in rough country. It takes a different kind of folk to keep a road passable in rain."}]}]
+```
+
+### Slot 9. Account of the First Shared Table
+- **Author:** Mara Fen
+- **Genre:** Household account
+- **Lore purpose:** Shows hearth culture and community forming through common meals.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Account of the First Shared Table"},author:"Mara Fen",generation:0,resolved:true,pages:[{text:"The first meal I would call truly shared was not fine. Fish too salty, bread too dense, broth too thin, and no two bowls alike in shape. Yet more was decided at that table than at many better ones since."},{text:"The south holding brought fish. The rise sent a little grain. The center added what roots and dried herbs it could. We ate the proof that scattered labor could become one supper if only we were disciplined enough to meet in the middle."},{text:"I have thought since that a realm is often no grander than this: different ground, one table."}]}]
+```
+
+### Slot 10. Register of Hands at the Lower Stores
+- **Author:** Toma Vale
+- **Genre:** Work register
+- **Lore purpose:** Shows many kinds of labor as part of early civilization.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Register of Hands at the Lower Stores"},author:"Toma Vale",generation:0,resolved:true,pages:[{text:"Entered at the lower stores: hands carrying timber, fish, grain, stone, rope, wax, and ore; hands mending bins; hands scraping mud from thresholds; hands striking spoiled tally marks and writing new ones honestly."},{text:"Not all labor is remembered because not all labor shines. Much of it is counting, sweeping, planing, lifting, drying, sorting, and telling the truth about what is and is not there. Yet a realm is often saved by such unnoticed acts before it is ever praised for louder ones."},{text:"This register is kept in part because useful obscurity deserves at least one witness."}]}]
+```
+
+### Slot 11. Catalog of the First Shelf
+- **Author:** Lysa Perrin
+- **Genre:** Shelf catalog
+- **Lore purpose:** Makes the library feel old, civic, and intentionally preserved.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Catalog of the First Shelf"},author:"Lysa Perrin",generation:0,resolved:true,pages:[{text:"Initial catalog of the first maintained shelf after the camp papers: one survey book in poor binding, one store ledger with fish oil on the lower leaves, two road notes, three letters kept for their account of the rise and the creek, one child's copy page, and one fragment too smoke-damaged to identify surely."},{text:"Reason for retention: each item records either a route, a custom, a supply condition, or a civic habit judged likely to matter again. Preservation is not granted by elegance alone."},{text:"Any item saved on this shelf shall be saved because forgetting it would cost more than keeping it dry."}]}]
+```
+
+### Slot 12. Concerning Stranger and Guest
+- **Author:** Mara Fen
+- **Genre:** Customary note
+- **Lore purpose:** Expresses a welcoming but principled culture.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Concerning Stranger and Guest"},author:"Mara Fen",generation:0,resolved:true,pages:[{text:"A stranger is simply one whose name has not yet learned the place. A guest is a stranger who has been shown fire, bread, and the boundaries of what is held in common."},{text:"Treat the first with caution, the second with decency, and both with clearer speech than pride prefers. It is possible to be careful without becoming mean. I recommend it, as meanness is a poor foundation stone."},{text:"Many who now belong first arrived with mud on their boots and no clear claim beyond weariness. That ought not be forgotten."}]}]
+```
+
+### Slot 13. Citation for Oren Reed
+- **Author:** Aster Vale
+- **Genre:** Honor citation
+- **Lore purpose:** Shows honors rooted in practical contribution rather than power.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Citation for Oren Reed"},author:"Aster Vale",generation:0,resolved:true,pages:[{text:"Entered in respect of Oren Reed, who kept marker, road, and crossing in better order than weather preferred and who understood before many others that a passable route is stored food by another name."},{text:"His merit lies not in grand speech but in the repeated prevention of small disasters, which is a form of greatness underappreciated by those who arrive to find the bridge already standing."},{text:"Let his name be remembered among those who made distance less victorious."}]}]
+```
+
+### Slot 14. Citation for Toma Vale
+- **Author:** Aster Vale
+- **Genre:** Honor citation
+- **Lore purpose:** Shows fair measure and honest scarcity as moral work.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Citation for Toma Vale"},author:"Aster Vale",generation:0,resolved:true,pages:[{text:"Entered in respect of Toma Vale, keeper of measures, who taught the center that false abundance is cruelty postponed and that honest tallies preserve more lives than flattering ledgers."},{text:"When others wished prices fixed to pride or complaint, he argued instead that worth must answer to real stock and real need. This discipline spared the realm the softer forms of lying that leave shelves empty while tongues still boast."},{text:"A frontier that counts honestly may yet endure."}]}]
+```
+
+### Slot 15. Citation for Maraine Holt
+- **Author:** Aster Vale
+- **Genre:** Honor citation
+- **Lore purpose:** Honors outward settlement and food production as civilizational work.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Citation for Maraine Holt"},author:"Aster Vale",generation:0,resolved:true,pages:[{text:"Entered in respect of Maraine Holt of the Eastern Rise, who proved that stubborn ground may still be persuaded into grain and that bread from difficult soil carries no less dignity for the effort required."},{text:"Her work is remembered not only for feeding many mouths, but for demonstrating that outward holdings are not ornaments to the center. They are its continued argument against retreat."},{text:"The rise held because she did."}]}]
+```
+
+### Slot 16. Entry on Distinctions and Civic Station
+- **Author:** Lysa Perrin
+- **Genre:** Hall note
+- **Lore purpose:** Explains distinction as earned identity, separate from office or authority.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Entry on Distinctions and Civic Station"},author:"Lysa Perrin",generation:0,resolved:true,pages:[{text:"A civic station tells what charge a person presently bears. A distinction tells what manner of path they have already walked. The two ought not be confused, though one person may carry both."},{text:"An office may be assigned from without. An earned name must come from deed, duration, service, renown, or mastery honestly recognized. For this reason the Hall records distinctions separately from ordinary station."},{text:"To mix them carelessly is to cheapen both."}]}]
+```
+
+### Slot 17. First Hall Entry of Merit
+- **Author:** Lysa Perrin
+- **Genre:** Ceremonial entry
+- **Lore purpose:** Early seed for titles as social readability and honor.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"First Hall Entry of Merit"},author:"Lysa Perrin",generation:0,resolved:true,pages:[{text:"The Hall of merit began not from vanity but from necessity. In a growing realm, it became useful to know at a glance what sort of labor, endurance, or renown had shaped a given person before one entrusted them with more."},{text:"Thus distinctions came to be recorded: not to replace humble names, nor to imitate offices, but to make visible what had already become true in the life of the realm."},{text:"A good distinction should tell others something worth knowing, and the bearer something worth living up to."}]}]
+```
+
+### Slot 18. On Authority and Earned Name
+- **Author:** Lysa Perrin
+- **Genre:** Commentary
+- **Lore purpose:** Separates authority from achievement in lore.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"On Authority and Earned Name"},author:"Lysa Perrin",generation:0,resolved:true,pages:[{text:"Some are trusted with authority because order requires it. Some are honored with earned names because the realm has seen what they have done. Neither should be made to impersonate the other."},{text:"Authority without merit may yet be necessary, if watched carefully. Merit without authority may yet be precious, if remembered properly. The confusion of the two breeds either vanity or resentment, both common frontier diseases."},{text:"Let office govern where it must. Let earned distinction speak where it is truthful. This keeps the realm more legible and less foolish."}]}]
+```
+
+### Slot 19. Kitchen Book of the Sanctuary Hearth
+- **Author:** Mara Fen
+- **Genre:** Household notebook
+- **Lore purpose:** Adds warmth and common life to the archive.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Kitchen Book of the Sanctuary Hearth"},author:"Mara Fen",generation:0,resolved:true,pages:[{text:"For thin stew when the shelves look shameful: fish if any, root if any, grain if enough, herbs if remembered, and patience in all cases."},{text:"Bread improved this week by drying the wood before dawn rather than pretending damp timber becomes honest because one is hurried. Whoever stacked green lengths by the hearth last fortnight owes me one apology and perhaps two."},{text:"A kitchen keeps more than hunger at bay. It keeps temper from ruling after dark, which is nearly as useful."}]}]
+```
+
+### Slot 20. Rules for Shared Tools and Common Stores
+- **Author:** Toma Vale
+- **Genre:** Practical notice
+- **Lore purpose:** Supports the culture of care and shared responsibility.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Rules for Shared Tools and Common Stores"},author:"Toma Vale",generation:0,resolved:true,pages:[{text:"Return what is borrowed. Clean what is dirtied. Sharpen what is dulled. State what is broken without inventing elaborate weather to blame for it."},{text:"Do not hide spoilage under sound goods. Do not shift poor stock to the back and call it cleverness. Do not take from common bins as if no one else has winter ahead."},{text:"Shared things are often the true measure of private character."}]}]
+```
+
+### Slot 21. Account of Sweeping and Repair Before Rain
+- **Author:** Anja Cale
+- **Genre:** Work account
+- **Lore purpose:** Turns maintenance and cleanliness into meaningful culture.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Account of Sweeping and Repair Before Rain"},author:"Anja Cale",generation:0,resolved:true,pages:[{text:"Spent the day lifting damp boards, re-setting one shelf, sweeping grit from the hall, patching the drip above the north corner, oiling hinges, and arguing with three men who mistook postponement for economy."},{text:"The place looks much the same to an untrained eye, which is exactly the point. A well-kept room should appear ordinary. Only neglect insists on being noticed."},{text:"If the rains come hard and the floor stays dry, no one will praise the sweeping. I write it down so at least the page may."}]}]
+```
+
+### Slot 22. A Librarian's Note Against Idolizing the First
+- **Author:** Lysa Perrin
+- **Genre:** Librarian's reflection
+- **Lore purpose:** Humanizes the Primordials and prevents myth from flattening them.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"A Librarian's Note Against Idolizing the First"},author:"Lysa Perrin",generation:0,resolved:true,pages:[{text:"It is tempting for later generations to polish the first keepers until no roughness remains on them. Resist this temptation. Smooth legends teach less than difficult people remembered honestly."},{text:"The early shapers tired, snapped, doubted, argued, and occasionally wrote nonsense at the edge of exhaustion. That they did so while still leaving the realm more stable than they found it is part of their worth, not a stain upon it."},{text:"If we make them too perfect, we excuse ourselves too easily from imitating what is actually possible."}]}]
+```
+
+### Slot 23. Copybook of a Sanctuary Child
+- **Author:** Copied by Lysa Perrin
+- **Genre:** Copybook page
+- **Lore purpose:** Shows family life and continuity in the center.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Copybook of a Sanctuary Child"},author:"Copied by Lysa Perrin",generation:0,resolved:true,pages:[{text:"Road. Lamp. Shelf. Bread. Bridge. Book. Fish. Grain. Store. Rain.\n\nThese are the words written three times each by a child of the Sanctuary hall in the second settled year, preserved because the lesson itself tells what the adults considered worth learning first."},{text:"One may build a realm grandly and still fail to teach its children the names of what keeps them. Better, perhaps, to begin with plain nouns and let wisdom grow from there."}]}]
+```
+
+### Slot 24. Inventory of Lamps Before the Wet Months
+- **Author:** Anja Cale
+- **Genre:** Inventory
+- **Lore purpose:** Makes preparedness and safe passage part of the world’s civic texture.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Inventory of Lamps Before the Wet Months"},author:"Anja Cale",generation:0,resolved:true,pages:[{text:"Counted lamps before the wet months: gate lamps serviceable, bridge lamps needing fresh trim, two marker lamps missing glass, one depot lamp smoking badly, three reserve lanterns acceptable, oil modest, wicks fewer than I like."},{text:"A settlement that lets its lights fail has begun to negotiate with darkness on poor terms. Replace what is cracked before rain explains the matter more cruelly."},{text:"Preparedness looks tedious in clear weather and merciful in foul."}]}]
+```
+
+### Slot 25. On Keeping the Place Fit for Common Use
+- **Author:** Mara Fen
+- **Genre:** Journal note
+- **Lore purpose:** States the core ethic of stewardship.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"On Keeping the Place Fit for Common Use"},author:"Mara Fen",generation:0,resolved:true,pages:[{text:"There are people who build well for themselves and leave every threshold beyond their own in a state of apology. Such folk may prosper for a while, but they do not improve a realm."},{text:"The truer mark, I think, is whether a person leaves behind roads passable, tools serviceable, records legible, shelters decent, and common places fit for whoever comes next."},{text:"To keep a place fit for common use is not lesser work than private success. It is the condition that makes private success worth having."}]}]
+```
+
+### Slot 26. Memorial for the Unnamed Hands
+- **Author:** Aster Vale
+- **Genre:** Memorial entry
+- **Lore purpose:** Honors forgotten contributors and gives humility to the archive.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Memorial for the Unnamed Hands"},author:"Aster Vale",generation:0,resolved:true,pages:[{text:"Many of the earliest useful acts were performed by people whose names did not survive in full. A brace set here. A path cut there. A shelf planed, a roof patched, a cart unloaded in rain, a lamp trimmed without witness."},{text:"The realm is fuller of such unnamed labor than any hall roll can adequately contain. Let this entry stand for those who improved the place and were not carried forward by clean ink."},{text:"A civilization that remembers only its loudest hands remembers badly."}]}]
+```
+
+### Slot 27. Closing Entry on What the Primordials Left
+- **Author:** Aster Vale
+- **Genre:** Closing chronicle
+- **Lore purpose:** Summarizes the cultural inheritance left by the first shapers.
+
+```mcfunction
+/give @p written_book[minecraft:written_book_content={title:{raw:"Closing Entry on What the Primordials Left"},author:"Aster Vale",generation:0,resolved:true,pages:[{text:"What the Primordials left was not merely walls, roads, tallies, and shelves, though they left those too. They left habits: count honestly, repair early, keep the center decent, honor common works, and remember that no outer holding stands alone for long."},{text:"They also left a standard by which later comfort may be judged. If prosperity makes us careless, then we have inherited only their safety and not their wisdom. If memory makes us sentimental but not diligent, then we have praised them cheaply."},{text:"The proper gratitude for the first keepers is not awe. It is continuation."}]}]
+```
